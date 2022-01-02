@@ -1,5 +1,4 @@
-### Hi there 👋
-i should probably fill this out sometime
+### Hi there 👋 I'm Tukeque
 
 <div align="center">
 <a href="https://github.com/Tukeque/">
