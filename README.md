@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<!--
 <div align="center">
 <a href="https://github.com/Tukeque/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tukeque&hide=shaderlab,hlsl&theme=github_dark&hide_border=true" />
@@ -15,7 +16,7 @@
   </a>
 </div>
 <hr>
-
+-->
 <!--
 **Tukeque/Tukeque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
