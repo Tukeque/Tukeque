@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My best projects on github: Ember, URCL-OS and Tyler.
+No recent activity because I've moved to other (some private) platforms.
 
 <!--
 <div align="center">
